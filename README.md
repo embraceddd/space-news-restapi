@@ -1,4 +1,4 @@
-# space-news-restapi
+# space-news-restapi spring boot
 тестовое задание. отправляет get-запрос на https://api.spaceflightnewsapi.net/v3 и получает список новостей объектом. используемые query-параметры _limit и _start
 сохраняет новости в БД h2.
 при отправлении get запроса на /news необходимо указать id, ответом будет новость с этим идентификатором. 
